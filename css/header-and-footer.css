@@ -254,7 +254,3 @@ footer ul li + li {
 	opacity: 1;
 	z-index: 11;
 }
-
-.social-icon {
-	max-width: 1rem;
-}
