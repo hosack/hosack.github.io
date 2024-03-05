@@ -2,6 +2,6 @@
 	<title>About</title>
 </svelte:head>
 
-## Who I am
+## Matt Hosack - Software Engineer
 
 ... more to come ...
