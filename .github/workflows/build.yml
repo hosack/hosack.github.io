@@ -25,4 +25,3 @@ jobs:
           clean: true
           clean-exclude: |
             CNAME
-            .nojekyll
