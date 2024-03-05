@@ -19,7 +19,7 @@
   </nav>
   <nav>
     <ul>
-      <li class="icon">
+      <li class="social-icon">
         <a href="https://github.com/hosackm" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512">
             <path
@@ -28,7 +28,7 @@
           </svg>
         </a>
       </li>
-      <li class="icon">
+      <li class="social-icon">
         <a href="https://linkedin.com/in/matthosack" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
             <path
@@ -37,7 +37,7 @@
           </svg>
         </a>
       </li>
-      <li class="icon">
+      <li class="social-icon">
         <a href="mailto:hosack.matt@gmail.com" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
             <path
@@ -51,9 +51,3 @@
 
   <p>&copy;{new Date().getFullYear()} {siteAuthor}</p>
 </footer>
-
-<style>
-  .icon {
-    max-width: 1rem;
-  }
-</style>
