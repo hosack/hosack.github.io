@@ -32,9 +32,6 @@ const config = {
         "/blog/page/*",
       ],
     },
-    paths: {
-      base: process.env.NODE_ENV === "production" ? "/hosack.github.io" : "",
-    },
   },
 };
 
